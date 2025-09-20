@@ -2,7 +2,7 @@
   "name": "mehthisham.github.io",
   "version": "1.0.0",
   "description": "Repository for Ehthisham's portfolio page",
-  "main": "webpack.config.js",
+  "main": "index.html",
   "repository": "https://github.com/MEhthisham/MEhthisham.github.io",
   "author": "Mohammed Ehthisham",
   "license": "MIT",
