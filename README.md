@@ -1,2 +1,2 @@
-# MEhthisham.github.io
-This is my profile page
+# Repo for Mohammed Ehthisham portfolio
+Repository for Ehthisham's portfolio page
