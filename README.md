@@ -1,2 +1,2 @@
-# Repo for Mohammed Ehthisham portfolio
+## Repo for Mohammed Ehthisham portfolio
 Repository for Ehthisham's portfolio page
