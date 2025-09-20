@@ -1,0 +1,44 @@
+MOHAMMED EHTHISHAM
+  (+91)9008634745	ehthisham1408@gmail.com 	  MohammedEhthisham	 Open to relocate to the UK 
+
+SUMMARY	
+Tech professional with 5+ years’ experience in retail operations and software engineering. Skilled in automation, process optimization, and Windows ecosystem management, with a track record of improving efficiency, reducing costs, and delivering scalable solutions.
+
+EXPERIENCE	
+Engineer | Target India	Oct 2024 – Present
+•	Managed ~2 Tazier builds monthly, deploying packages & Windows images enterprise-wide
+•	Delivered Dell driver pack releases quarterly with 93% success
+•	Patched 2.1K servers & 37K endpoints monthly via WSUS with zero incidents
+•	Cleaned Active Directory OUs, improving hygiene by 20% and reducing risks
+•	Ensured Oracle Java cleanup, avoiding $250K+ in vendor penalties
+
+Lead Item Data Specialist | Target India	Jan 2022 – Sep 2024
+•	Spearheaded process automation initiatives using Cygnus Studio, reducing dependencies and boosting efficiency
+•	Applied Java, Python, SQL, and VBA (self-taught via TLG training) to design automation workflows
+•	Acted as a key automation champion within team operations
+•	
+Sr Item Data Specialist | Target India	Jan 2020 – Dec 2021
+•	Supported launch readiness for strategic transitions (e.g., Levi’s, P&G, Localization projects).
+•	Enhanced guest-facing themes on Target.com (e.g., Flex Variation), improving user experience through data-driven insights
+
+PROJECTS	
+-	EchoMate (Jain University): Co-developed a social media app, deployed on AWS, gaining exposure to cloud services and deployment strategies.
+-	WF Allocation Cygnus Bot (Target): Automated ServiceNow ticket allocation, saving ~200+ hours annually.
+-	Product Title Audit Automation (Target): Built a Python + Pandas script performing 50+ checks, cutting 40 hours annually.
+-	Assortment Automation (Target): Engineered Python + Selenium automation, reducing manual effort by 70%.
+
+EDUCATION	
+Jain University – MCA, Cloud Computing (2022 – 2024) Bangalore, India
+Kristu Jayanti College – BBA (2015 – 2018) Bangalore, India
+
+SKILLS AND INTERESTS	
+•	Languages/Libraries: Python | PowerShell | NumPy | Pandas
+•	Technologies: Active Directory | WSUS | SCCM | Tanium | Amazon EC2 | SQL | GitHub
+•	Career Interests: Windows Ecosystem SME | Cloud Computing | Automation | DevOps
+•	Hobbies: Travelling | Food | Books | Fitness
+
+ACHIEVEMENTS & CERTIFICATIONS	
+•	UpTech 2023 (6-month bootcamp) | DB migration to MongoDB using Java, Spring Boot & Kafka	Certificate
+•	AWS Cloud Practitioner	Certificate
+•	Kotlin Fundamentals	Certificate
+•	TLG	Certificate
